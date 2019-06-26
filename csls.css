@@ -1,0 +1,71 @@
+#bgc{
+  position: fixed;
+  left:0;
+  top:0;
+  height: 15%;
+  width: 100%;
+  z-index: -1;
+  background-color:#007FFF;
+}
+.bt{
+    font-family: 'Comic Sans MS', cursive;
+    color: white;
+    position:absolute; top:40px;left: 550px;
+
+}
+.nr1{
+  position: absolute;left: 255px; top: 132px;
+  color: white;
+}
+.nr2{
+  position: absolute;left: 182px;top: 172px;
+  color: white;
+}
+.nr3{
+  position: absolute;left: 30px;top: 222px;
+  color: white;
+}
+img{border-radius:50%;}
+.fy{
+  position: absolute;top: 500px;left: 200px;
+}
+.fy1{
+  position: absolute;top: 500px;left: 580px;
+}
+.hh{
+  position: absolute;top: 900px;left: 200px;
+}
+.hh1{
+  position: absolute;top: 900px;left: 580px;
+}
+.xj{
+  position: absolute;top: 1300px;left: 200px;
+}
+.xj1{
+  position: absolute;top: 1300px;left: 580px;
+}
+.ys{
+  position: absolute;top: 1700px;left: 200px;
+}
+.ys1{
+  position: absolute;top: 1700px;left: 580px;
+}
+.jr{
+  position: absolute;top: 2100px;left: 200px;
+}
+.jr1{
+  position: absolute;top: 2100px;left: 580px;
+}
+.fd{
+      width: 300px;
+      height: 300px;
+      margin: 50px auto;
+      overflow: hidden;
+  }
+.fd img{
+          cursor: pointer;
+          transition: all 0.6s;
+    }
+.fd img:hover{
+                transform: scale(1.4);
+        }

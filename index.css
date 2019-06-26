@@ -1,0 +1,19 @@
+.body{
+  background-image: url(../项目/images/szzy.jpg);
+  background-size: 100%;
+  background-repeat:no-repeat;
+}
+.sz{
+    font-size: 90px;
+    font-weight: 50px;
+    text-align: center;
+    color:blue;
+    font-family: 'Comic Sans MS', cursive;
+    line-height: 0px;
+  }
+.jrlj{
+  font-size: 30px;
+  font-family: 'Comic Sans MS', cursive;
+  color:yellow;
+  text-decoration: none;
+}

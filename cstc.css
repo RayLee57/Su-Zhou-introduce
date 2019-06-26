@@ -1,0 +1,54 @@
+.dzx{
+  position: absolute;left: 900px;top: 90px;
+}
+.blc{
+  position: absolute;left: 200px;top: 540px;
+}
+.sx{
+  position: absolute;left: 900px;top:990px;
+}
+.hj{
+  position: absolute;left: 200px;top: 1518px;
+}
+.gd{
+  position: absolute;left: 900px;top: 2015px;
+}
+.dzx1{
+  position: absolute;left: 230px;top: 130px;
+}
+.blc1{
+  position: absolute;left: 600px;top: 600px;
+}
+.sx1{
+  position: absolute;left: 230px;top: 1060px;
+}
+.hj1{
+  position: absolute;left: 600px;top: 1540px;
+}
+.gd1{
+  position: absolute;left: 230px;top: 2015px;
+}
+.clj1{
+  position: absolute;left: 230px;top: 280px;
+}
+.clj2{
+  position: absolute;left: 600px;top: 760px;
+}
+.clj3{
+  position: absolute;left: 230px;top: 1220px;
+}
+.clj4{
+  position: absolute;left: 600px;top: 1720px;
+}
+.clj5{
+  position: absolute;left: 230px;top: 2160px;
+}
+a{
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+  text-decoration: none;
+  border-radius: 6px;
+  background-color: blue;
+  position: absolute;width: 80px;height: 30px;
+}
+

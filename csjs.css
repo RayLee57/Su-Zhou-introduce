@@ -1,0 +1,294 @@
+.wuzhong{
+    margin: 100px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: 60px;
+}
+.wz{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 24px;
+    box-sizing: border-box;
+}
+.wz.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+
+
+#wz {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    margin:10px left;
+}
+
+#wzphoto {
+    width: 1200px;
+    animation: move 5s ease-out infinite;
+}
+
+#wzphoto > img {
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+.gusu{
+    margin: 0px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: 70px;
+}
+.gs{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 60px;
+    box-sizing: border-box;
+}
+.gs.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+#gs {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    margin:10px left;
+}
+
+#gsphoto {
+    width: 1200px;
+    animation: move 6s ease-out infinite;
+}
+
+#gsphoto > img {
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+
+
+.wujiang{
+    margin: 100px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: 20px;
+}
+.wj{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 14px;
+    box-sizing: border-box;
+}
+.wj.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+#wj {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    margin:10px left;/
+}
+
+#wjphoto {
+    width: 1200px;
+    animation: move 5.5s ease-out infinite;
+}
+
+#wjphoto > img {
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+.pingjiang{
+    margin: 0px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: -60px;
+}
+.pj{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 14px;
+    box-sizing: border-box;
+}
+.pj.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+#pj {
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    margin:10px left;/
+}
+
+#pjphoto {
+    width: 1200px;
+    animation: move 4s ease-out infinite;
+}
+
+#pjphoto > img {
+    float: left;
+    width: 400px;
+    height: 200px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+.xiangcheng{
+    margin: 100px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: -125px;
+}
+.xc{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 14px;
+    box-sizing: border-box;
+}
+.xc.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+#xc {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    margin:10px left;/
+}
+
+#xcphoto {
+    width: 1200px;
+    animation: move 7s ease-out infinite;
+}
+
+#xcphoto > img {
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+.huqiu{
+    margin: 0px auto;
+    width: 750px;
+    position: absolute;left: 180px;top: -180px;
+}
+.hq{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 14px;
+    box-sizing: border-box;
+}
+.hq.title{
+    position: absolute;
+    top: -1em;
+    left: 10%;
+    line-height: 2em;
+    padding: 0 1em;
+    background-color: #fff
+}
+#hq {
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    margin:10px left;/
+}
+
+#hqphoto {
+    width: 1200px;
+    animation: move 5s ease-out infinite;
+}
+
+#hqphoto > img {
+    float: left;
+    width: 400px;
+    height: 200px;
+}
+
+@keyframes move {
+    0%, 20% {
+        margin-left: 0;
+    }
+    40%, 60% {
+        margin-left: -400px;
+    }
+    70%, 100% {
+        margin-left: -800px;
+    }
+}
+/
+

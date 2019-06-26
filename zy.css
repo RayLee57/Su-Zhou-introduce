@@ -1,0 +1,17 @@
+#sj{
+  writing-mode: vertical-rl;
+  font-family: 'Comic Sans MS', cursive;
+  position: absolute;top: 50px;right:60px;
+  font-size: 40px;
+}
+.fd{
+      margin: 50px auto;
+      overflow: hidden;
+  }
+.fd img{
+          cursor: pointer;
+          transition: all 0.6s;
+    }
+.fd img:hover{
+                transform: scale(1.4);
+        }
